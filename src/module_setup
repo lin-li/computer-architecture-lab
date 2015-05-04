@@ -1,0 +1,17 @@
+Top_module: Computer
+
+Top_file: Computer.v
+
+Src_list: 	Computer.v
+	CPU.v
+	ALU.v
+	Control.v
+	Memory.v
+	RegFile.v
+	SA.v
+	SignExt.v
+	PC_Buffer.v
+	IF_ID_Buffer.v
+	ID_EXE.Buffer.v
+	EXE_MEM_Buffer.v
+	MEM_WB_Buffer.v	
